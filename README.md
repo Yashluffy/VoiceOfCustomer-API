@@ -1,5 +1,6 @@
-##VoiceOfCustomer-API-Reviews
- "Flask Sentiment Analyzer" is a web app that predicts the sentiment of product reviews using machine learning. Users input text, and the app determines whether it's positive or negative. It aids in decision-making by providing quick insights into customer sentiments.
+## VoiceOfCustomer-API-Reviews
+
+ "VoiceOfCustomer-API" is a web app that predicts the sentiment of product reviews using machine learning. Users input text, and the app determines whether it's positive or negative. It aids in decision-making by providing quick insights into customer sentiments.
 
 # Flipkart Product Review Analysis
 
@@ -38,8 +39,5 @@ This is a Flask web application for analyzing sentiment in Flipkart product revi
 
 ## Credits
 - The machine learning model used in this application was trained on a dataset sourced from Flipkart product reviews.
-
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
